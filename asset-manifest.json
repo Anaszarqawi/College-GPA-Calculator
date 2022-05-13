@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3e91cd1.css",
+    "main.js": "/static/js/main.218412f7.js",
+    "static/media/anas-zaqrawi-logo.svg": "/static/media/anas-zaqrawi-logo.d49a6687286dbf38121fdbac2124bc36.svg",
+    "index.html": "/index.html",
+    "main.c3e91cd1.css.map": "/static/css/main.c3e91cd1.css.map",
+    "main.218412f7.js.map": "/static/js/main.218412f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e91cd1.css",
+    "static/js/main.218412f7.js"
+  ]
+}
